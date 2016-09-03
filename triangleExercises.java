@@ -8,5 +8,8 @@ class TriangleExercises {
         for( int i = 0; i < n; i ++ )
             System.out.print( "*" );
         System.out.println("");
+        n = sc.nextInt();
+        for( int i = 0; i < n; i ++ )
+            System.out.println( "*" );
     }
 }
